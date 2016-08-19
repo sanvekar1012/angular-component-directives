@@ -1,4 +1,8 @@
 import System.String
 
-public class ABC {
+public class test {
+
+
+
+    test code kalkd
 }
